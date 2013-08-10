@@ -1,6 +1,6 @@
 {
-    "name": "pure-button",
-    "repo": "jaredhanson/suitcss-pure-button",
+    "name": "theme-pure-button",
+    "repo": "jaredhanson/suitcss-theme-pure-button",
     "version": "0.0.0",
     "styles": ["button.css"],
     "dependencies": {
