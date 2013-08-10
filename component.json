@@ -1,0 +1,11 @@
+{
+    "name": "pure-button",
+    "repo": "jaredhanson/suitcss-pure-button",
+    "version": "0.0.0",
+    "styles": ["button.css"],
+    "dependencies": {
+        "jaredhanson/suitcss-button": "component"
+    },
+    "author": "Jared Hanson",
+    "license": "MIT"
+}
